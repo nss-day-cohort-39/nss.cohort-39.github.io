@@ -60,7 +60,7 @@
             "bio": "<p></p>",
             "github": "https://github.com/calvincurry22",
             "linkedIn": "https://www.linkedin.com/in/calvinmcurry",
-            "portfolio": "",
+            "portfolio": "https://calvincurry22.github.io/",
             "email": "calvincurry22@gmail.com",
             "proImg": "",
             "funImg": ""
@@ -73,7 +73,7 @@
             "bio": "<p></p>",
             "github": "https://github.com/tylerdav",
             "linkedIn": "https://www.linkedin.com/in/tyler-j-davis/",
-            "portfolio": "",
+            "portfolio": "tylerdav.github.io",
             "email": "tylerdavis32@gmail.com",
             "proImg": "",
             "funImg": ""
@@ -86,7 +86,7 @@
             "bio": "<p></p>",
             "github": "https://github.com/durrjp",
             "linkedIn": "https://www.linkedin.com/in/durrjp/",
-            "portfolio": "",
+            "portfolio": "durrjp.github.io",
             "email": "durrjp1@gmail.com",
             "proImg": "",
             "funImg": ""
@@ -99,7 +99,7 @@
             "bio": "<p></p>",
             "github": "https://github.com/CrystalElseyNSS",
             "linkedIn": "https://www.linkedin.com/in/crystalelsey/",
-            "portfolio": "",
+            "portfolio": "http://www.crystalelsey.com/",
             "email": "hello@crystalelsey.com",
             "proImg": "",
             "funImg": ""
@@ -151,7 +151,7 @@
             "bio": "<p></p>",
             "github": "https://github.com/ShadyGrant",
             "linkedIn": "https://www.linkedin.com/in/shady-grant/",
-            "portfolio": "",
+            "portfolio": "shadygrant.github.io",
             "email": "shadygrant@yahoo.com",
             "proImg": "",
             "funImg": ""
@@ -164,7 +164,7 @@
             "bio": "<p></p>",
             "github": "https://github.com/danielhero",
             "linkedIn": "https://www.linkedin.com/in/danielhero/",
-            "portfolio": "",
+            "portfolio": "danielhero.github.io",
             "email": "danielhero@outlook.com",
             "proImg": "",
             "funImg": ""
@@ -177,7 +177,7 @@
             "bio": "<p></p>",
             "github": "https://github.com/iparkerhodge",
             "linkedIn": "https://www.linkedin.com/in/iparkerhodge/",
-            "portfolio": "https://danielhero.github.io/",
+            "portfolio": "iparkerhodge.github.io/portfolio",
             "email": "iparkerhodge@gmail.com",
             "proImg": "",
             "funImg": ""
@@ -186,8 +186,8 @@
             "id": 15,
             "firstName": "Kristen",
             "lastName": "Howton",
-            "reelThemIn": "",
-            "bio": "<p></p>",
+            "reelThemIn": "“In a world where you can be anything, be kind.” -Jennifer Dukes Lee",
+            "bio": "<p>Before beginning my journey in software development, I was working as a behavior therapist for children with autism. I enjoyed being able to make a difference in children's lives by seeing the small changes as large victories. Software development allowed me to transition to appreciating small features in my code before ultimately building out a complex application. I was able to combine my passion of working with others and solving complex problems using logic while working in a team environment. I was first introduced to software development as a means of more efficiently processing data when I was working on my masters thesis. I realized that a career in tech combined my passions for helping others and creating things.</p>",
             "github": "https://github.com/kristen-howton",
             "linkedIn": "https://www.linkedin.com/in/kristen-howton/",
             "portfolio": "",
@@ -216,7 +216,7 @@
             "bio": "<p></p>",
             "github": "https://github.com/sarah-hart-landolt",
             "linkedIn": "https://www.linkedin.com/in/sarah-hart-landolt/",
-            "portfolio": "",
+            "portfolio": "sarah-hart-landolt.github.io",
             "email": "sarah.hart.landolt@gmail.com",
             "proImg": "",
             "funImg": ""
@@ -281,7 +281,7 @@
             "bio": "<p></p>",
             "github": "https://github.com/JaysonRice",
             "linkedIn": "https://www.linkedin.com/in/jaysonrice/",
-            "portfolio": "",
+            "portfolio": "https://jaysonrice.github.io/",
             "email": "jayson.rice.95@gmail.com",
             "proImg": "",
             "funImg": ""
