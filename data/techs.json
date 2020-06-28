@@ -2,15 +2,15 @@
     "techs": [
         {
             "id": 1,
-            "name": "Javascript",
+            "name": "JavaScript",
             "image": "javascript.png",
             "link": "https://www.javascript.com/"
         },
         {
             "id": 2,
-            "name": "AngularJS",
-            "image": "angularjs.png",
-            "link": "https://angularjs.org/"
+            "name": "React",
+            "image": "null",
+            "link": "https://reactjs.org/"
         },
         {
             "id": 3,
