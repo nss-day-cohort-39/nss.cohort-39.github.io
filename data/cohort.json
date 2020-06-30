@@ -155,7 +155,6 @@
             "portfolio": "http://danielhero.github.io",
             "email": "danielhero@outlook.com",
             "proImg": "DanielHero.jpg"
-
         },
         {
             "id": 14,
@@ -185,8 +184,8 @@
             "id": 16,
             "firstName": "Drew",
             "lastName": "Kirkland",
-            "reelThemIn": "",
-            "bio": "<p>Are you questioning Drew's abilities? You should be.<br> WHO? People. Drew puts people first by anticipating their needs and focusing on effective, proactive communication. He doesn’t take a one-size-fits-all approach – instead he sees each interaction as a chance to prove to himself that, unlike Tom Smykowski, he really does have people skills. <br> WHAT? Anything. It really doesn't matter - from satiating taste buds to curbing technological chaos, Drew has an ability to marry technical proficiency with humble altruism to engage on a level more personal than a tailor. Honing this unique ability has allowed him to bridge gaps in industry, environment, and experience. <br> WHEN? Night or day, rain or shine (and especially in the snow). Drew's passionate dedication to learning, teaching, and doing do not stop for inclement weather. In today's world of limitless connectivity, time is the golden metric for solving problems and making decisions.<br>WHERE? Real-world or hypothetical, physical or virtual, no terrain is foreign to this brazen pioneer. Being able to adapt to and overcome the environment is a skill that ensures Drew can remain focused on the task at hand. It’s akin to being on the battlefield – all the training in the world doesn’t compare to time served with boots on the ground.<br>HOW? Being a proud autodidact, learning is not an activity but a way of life. If it isn't a Product Marketing Announcement detailing the newest software and hardware features then it's an online instructional on how to DIY just about anything. Either way, it's the continuous pursuit of education that keeps Drew confident and able to find success in each challenge he faces.<br>WHY? Because he cares. And in this case, words don't quite do it justice. This trait you'll just have to see for yourself. If you are someone who cares then you know that this trait is invaluable and unmistakable. </p>",
+            "reelThemIn": "\"Speaking confidently about what you know, and candidly about what you don't\"",
+            "bio": "<p>Having worked many hands-on jobs in (and out of) the tech sector, I found myself always wanting to know more about the intricacies of the devices that propel our lives. Learning to be a developer was the next step.<br>Fortunately, my time spent installing and supporting technology has provided clarity as a developer - I am able to qualify issues quickly due to a “big picture” mentality. I attribute my confidence with code to many years spent reconstructing the physical world.</p>",
             "github": "https://github.com/iamdrewkirkland",
             "linkedIn": "https://www.linkedin.com/in/iamdrewkirkland/",
             "portfolio": "null",
