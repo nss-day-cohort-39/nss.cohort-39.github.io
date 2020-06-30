@@ -4,13 +4,13 @@
             "id": 1,
             "firstName": "Billy",
             "lastName": "Blackman",
-            "reelThemIn": "<p></p>",
+            "reelThemIn": "<p>The scariest moment is always just before you start.- Stephen King"</p>,
             "bio": "<p>I have always had a passion for creating things. I love building things, taking them apart, finding out how they work and fixing them. I approach all my core interests - Software Development, Audio Engineering, Electronics - with a similar mechanical approach and curiosity. <br> I've been interested in software since childhood, but just recently took the leap to start learning. Coming from a well-rounded background in music, focused in analytical facets like production and composition, Software Development offers me countless new ways to fulfill my desires to design, build, and repair. </p>",
             "github": "https://github.com/billyblackman",
             "linkedIn": "https://www.linkedin.com/in/billyblackman/",
             "portfolio": "",
             "email": "blackmanbilly@gmail.com",
-            "proImg": "",
+            "proImg": "BillyBlackman.jpg",
             "funImg": ""
         },
         {
@@ -231,7 +231,7 @@
             "linkedIn": "https://www.linkedin.com/in/thomas-long-252a99123/",
             "portfolio": "",
             "email": "thomaselong12@gmail.com",
-            "proImg": "",
+            "proImg": "ThomasLong.jpg",
             "funImg": ""
         },
         {
