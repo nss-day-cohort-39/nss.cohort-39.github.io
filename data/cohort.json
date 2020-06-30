@@ -4,92 +4,92 @@
             "id": 1,
             "firstName": "Billy",
             "lastName": "Blackman",
-            "reelThemIn": "<p>The scariest moment is always just before you start.- Stephen King"</p>,
+            "reelThemIn": "<p>The scariest moment is always just before you start.- Stephen King</p>",
             "bio": "<p>I have always had a passion for creating things. I love building things, taking them apart, finding out how they work and fixing them. I approach all my core interests - Software Development, Audio Engineering, Electronics - with a similar mechanical approach and curiosity. <br> I've been interested in software since childhood, but just recently took the leap to start learning. Coming from a well-rounded background in music, focused in analytical facets like production and composition, Software Development offers me countless new ways to fulfill my desires to design, build, and repair. </p>",
             "github": "https://github.com/billyblackman",
             "linkedIn": "https://www.linkedin.com/in/billyblackman/",
             "portfolio": "",
             "email": "blackmanbilly@gmail.com",
             "proImg": "BillyBlackman.jpg",
-            "funImg": ""
+            "funImg": "null"
         },
         {
             "id": 2,
             "firstName": "Derek",
             "lastName": "Buckley",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>As someone who loves to use logic to solve problems and loves to always be learning, moving in web development was a natural progression in my career path. From my first time writing code in high school I was fascinated with the idea of writing code to solve problems and accomplish tasks. Although my career path took me in a different direction for many years, coming back to software development has been an amazing experience. <br>In my time away from writing code I am grateful for the skills and experience I gained in different industries and job types. Although not directly related to my ability to write code they have helped me be more effective working with people on an individual basis, being part of a team, and communicating abstract ideas to people in many different roles. <br>Outside of work I enjoy hiking with my family, writing music and painting. I volunteer at my church and am involved in small groups, as well as other volunteer opportunities in my community. </p>",
             "github": "https://github.com/buckleyderekp",
             "linkedIn": "https://www.linkedin.com/in/derekbuckley/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "buckleyderekp@gmail.com",
             "proImg": "DerekBuckley.jpg",
-            "funImg": ""
+            "funImg": "null"
         },
         {
             "id": 3,
             "firstName": "Michael",
             "lastName": "Carroll",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>I am a Nashville native who has recently moved back home. I spent most of my professional career working in the service industry. While I love the fast pace, and camaraderie it instills, I began looking into programming from a desire to create new avenues of positive change in my community. I cam to love not only the idea of what I could do with the ability to connect people but also programming itself after babbling into JavaScript. Now I can’t imagine another career path for myself. </p>",
             "github": "https://github.com/Keartroth",
             "linkedIn": "https://www.linkedin.com/in/mecarrolljr/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "mecarrolljr@tutanota.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 4,
             "firstName": "Alexander",
             "lastName": "Curnow",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "My introduction to software development was initially sparked by my band's manager, who has been a developer for 15 years. The things he could do blew my mind. I'd always have twenty question for him, but never really understood his answers. I didn't take action on my own learning until two friends of mine (Nashville Software School alumns!) encouraged me to follow in their footsteps. A few Codecademy and Udemy courses later I applied to NSS hungry to learn more, and I'm so glad that I did. For me, the most enticing aspect of being a software engineer is that the learning is truly endless! Wearing my nerd on my sleeve here, but the problems are like games in which a developer needs to create and cast spells in order to solve. I'm always looking forward to the next challenge, and for the first time in a long time I no longer dread the end of the weekend because software engineering is just that cool!",
             "github": "https://github.com/alexcurnow",
             "linkedIn": "https://www.linkedin.com/in/alexcurnow/",
             "portfolio": "http://alexcurnow.github.io/my-portfolio/",
             "email": "alexcurnow@gmail.com",
             "proImg": "AlexCurnow.jpg",
-            "funImg": ""
+            "funImg": "null"
         },
         {
             "id": 5,
             "firstName": "Calvin",
             "lastName": "Curry",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>Thus far, my journey in software development has been phenomenal, and I feel that this is the best decision I could have made for my career. I was initially introduced to coding by my brother, as I was genuinely interested in trying to figure out what his job consisted of as a software engineer. I was advised to experiment with free online resources at my own leisure to get a basic understanding of programming. I created an account on Codecademy to learn about JavaScript, and after about two hours of coding, I realized that I felt an overall sense of enthusiasm that I had not experienced with any previous career. In the moment, I knew that I would continue coding as a hobby, but that quickly evolved into a desire to pursue my newfound passion as a full-time career. Upon hearing about the Nashville Software School, I knew that this would be a fantastic opportunity to accelerate my learning while receiving the support I need to be fully prepared to transition into the tech industry.<br>I am excited to have found an avenue that allows me to use logical thinking to solve problems, use my creativity to turn my ideas into tangible applications, and challenge myself intellectually by continuously learning new concepts to further my growth as a developer. I am continuing to learn and grow more each day, and at this point I cannot imagine anything else that I would rather do. </p>",
             "github": "https://github.com/calvincurry22",
             "linkedIn": "https://www.linkedin.com/in/calvinmcurry/",
             "portfolio": "https://calvincurry22.github.io/",
             "email": "calvincurry22@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 6,
             "firstName": "Tyler",
             "lastName": "Davis",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>I am a Nashville native with a deep passion for technology and constant learning. Starting from a young age, I loved taking things apart and seeing how they worked. This curiosity eventually led me to code, something I had always been fascinated by but never pursued until recently. After diving into an extensive 6-month full-stack boot camp, I couldn't be happier with this career choice and look forward to using this new-found knowledge in the world.</p>",
             "github": "https://github.com/tylerdav",
             "linkedIn": "https://www.linkedin.com/in/tyler-j-davis/",
             "portfolio": "http://tylerdav.github.io",
             "email": "tylerdavis32@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 7,
             "firstName": "Jon",
             "lastName": "Durr",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>Hello I'm Jon. Currently, I'm a student at Nashville Software School and enrolled in the full-stack C#/.NET web development program. My journey into software development began from a desire to increase my own efficiency in the workplace in programs like Microsoft Excel and Salesforce. With an engineering background and a love of problem solving I took the plunge into basic front-end development with a short, in person foundations program that had me hooked. Afterwords, I enrolled in this full-time course and have been working to develop my own skills so that I can pursue software development full-time. I hope to one day combine my passion for health care and improving the lives of patients with my new-found love of programming.</p>",
             "github": "https://github.com/durrjp",
             "linkedIn": "https://www.linkedin.com/in/durrjp/",
             "portfolio": "http://durrjp.github.io",
             "email": "durrjp1@gmail.com",
             "proImg": "JonDurr.jpg",
-            "funImg": ""
+            "funImg": "null"
         },
         {
             "id": 8,
@@ -102,85 +102,85 @@
             "portfolio": "https://crystalelseynss.github.io/",
             "email": "hello@crystalelsey.com",
             "proImg": "CrystalElsey.jpg",
-            "funImg": ""
+            "funImg": "null"
         },
         {
             "id": 9,
             "firstName": "Daniel",
             "lastName": "Fuqua",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>I wrote my first line of code in October of 2019 as I took an introductory course to front end web development to see if a career and a new life as a developer was truly a target worth setting my aim toward. I decided it was, and since that day I have been border line obsessed with my newly found power to communicate with computers and get them to execute tasks. Once upon a time I lived life as a muggle, using only what was made for me to see and interact with by the software wizards of the world. I knew nothing of the infrastructure that makes our evermore interconnected and globalized culture function so, conveniently. I left that alchemy to the wizards. The developers who were far superior to me. That is actually pretty close to how I looked at the developers of the internet and software industry. They decided what was possible for me and I was grateful as a consumer. But I took a chance, and I decided to flip the script and join their ranks. I see now that with adequate commitment and work ethic, the possibilities reach far beyond my current comprehension. </p>",
             "github": "https://github.com/DanielFuqua",
             "linkedIn": "https://www.linkedin.com/in/daniel-fuqua/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "fuquardwork@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 10,
             "firstName": "Timothy",
             "lastName": "George",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>My interest in software development began in my freshman year of high school. We built a simple website mostly utilizing HTML and inline-styling for a class project. After spending the first decade of my working years mastering the art of craft butchery and managing a business, I decided I needed a new stimulating path that combined my passion for customer service and artistry. I ran into a former colleague who had entered NSS and was now a successful software engineer. After doing some research and studying privately I decided that entering the school was my next step.</p>",
             "github": "https://github.com/Hellowalls1",
             "linkedIn": "https://www.linkedin.com/in/timpgeorge/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "tgeorgedev@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 11,
             "firstName": "Yitbarek 'Yohannis'",
             "lastName": "Gitore",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>Having spent years working on customer service industry, I knew I wanted a career that would better utilize my creative and analytical abilities. I am currently attending Nashville Software School to further my skill set and be a valuable member of any organization that is in need of someone who knows how to work towards goals. </p>",
             "github": "https://github.com/yitbarekgitore",
             "linkedIn": "linkedin.com/in/yitbarek-gitore-b18aa8186",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "yitbareky@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 12,
             "firstName": "Shady",
             "lastName": "Grant",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>As a developer, you can create anything that comes to mind with only the help of a computer. The possibility to turn ideas into reality and the freedom of thinking of something and being able to create it is unparalleled. Every day there is better and better tools to make anything that comes to mind happen. This what made me passionate to learn and study software development. </p>",
             "github": "https://github.com/ShadyGrant",
             "linkedIn": "https://www.linkedin.com/in/shady-grant/",
             "portfolio": "http://shadygrant.github.io",
             "email": "shadygrant@yahoo.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 13,
             "firstName": "Daniel",
             "lastName": "Hero",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>While working in many different business sectors, I have gained knowledge to understand the many different aspects of a business. I correlate all the skills learned by my experiences to excel and thrive in the workplace. Currently, my passion has fallen into software development. I have found it's a perfect career path for me to flex my creative side, while also adhering to my natural orderly side. </p>",
             "github": "https://github.com/danielhero",
             "linkedIn": "https://www.linkedin.com/in/danielhero/",
             "portfolio": "http://danielhero.github.io",
             "email": "danielhero@outlook.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 14,
             "firstName": "Parker",
             "lastName": "Hodge",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>In 2018 I graduated from the University of Tennessee with a B.S. in Molecular Biology, fully intent on pursuing further education in medicine or health research. However, after exposure to design and data visualizations in MATLAB and R in my research endeavors, I was captivated by the opportunity to design and create that programming afforded and research seemingly lacked. I then enrolled in Nashville Software School with goal to develop the skills that would allow me to develop and contribute to meaningful, engaging software products. </p>",
             "github": "https://github.com/iparkerhodge",
             "linkedIn": "https://www.linkedin.com/in/iparkerhodge/",
             "portfolio": "http://iparkerhodge.github.io/portfolio",
             "email": "iparkerhodge@gmail.com",
             "proImg": "ParkerHodge.jpg",
-            "funImg": ""
+            "funImg": "null"
         },
         {
             "id": 15,
@@ -199,79 +199,79 @@
             "id": 16,
             "firstName": "Drew",
             "lastName": "Kirkland",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>Are you questioning Drew's abilities? You should be.<br> WHO? People. Drew puts people first by anticipating their needs and focusing on effective, proactive communication. He doesn’t take a one-size-fits-all approach – instead he sees each interaction as a chance to prove to himself that, unlike Tom Smykowski, he really does have people skills. <br> WHAT? Anything. It really doesn't matter - from satiating taste buds to curbing technological chaos, Drew has an ability to marry technical proficiency with humble altruism to engage on a level more personal than a tailor. Honing this unique ability has allowed him to bridge gaps in industry, environment, and experience. <br> WHEN? Night or day, rain or shine (and especially in the snow). Drew's passionate dedication to learning, teaching, and doing do not stop for inclement weather. In today's world of limitless connectivity, time is the golden metric for solving problems and making decisions.<br>WHERE? Real-world or hypothetical, physical or virtual, no terrain is foreign to this brazen pioneer. Being able to adapt to and overcome the environment is a skill that ensures Drew can remain focused on the task at hand. It’s akin to being on the battlefield – all the training in the world doesn’t compare to time served with boots on the ground.<br>HOW? Being a proud autodidact, learning is not an activity but a way of life. If it isn't a Product Marketing Announcement detailing the newest software and hardware features then it's an online instructional on how to DIY just about anything. Either way, it's the continuous pursuit of education that keeps Drew confident and able to find success in each challenge he faces.<br>WHY? Because he cares. And in this case, words don't quite do it justice. This trait you'll just have to see for yourself. If you are someone who cares then you know that this trait is invaluable and unmistakable. </p>",
             "github": "https://github.com/iamdrewkirkland",
             "linkedIn": "https://www.linkedin.com/in/iamdrewkirkland/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "drew.kirkland@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 17,
             "firstName": "Sarah Hart",
             "lastName": "Landolt",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>I'm an extroverted, passionate software developer and abstract artist who loves people, painting and coding! As a junior dev, I am most passionate about painting a canvas with the magical tools of HTML, CSS and JavaScript all working together to create beautiful art rendered on a website. My first spark of interest in becoming a software developer started in UI/UX design, first as a fashion blogger and later as I created a website and content for myself, clients and my class websites as a French Instructor. After a decade of teaching language and a year transitioning into art full-time, I was looking for a new career path to marry all my creative interests and channel the elements that make me thrive: creation, ideation, problem-solving, challenge, mentorship and teamwork. After witnessing the life-changing career paths of friends who enrolled in Nashville Software School, I decided to commit and enroll in the 6 month full-stack development bootcamp. In learning to be a software developer, I am able to employ the beginner’s mind that I cultivated as an adult language learner and teacher, my creativity as an artist, and my passion for people and interaction through team projects and the mentorship of mid and senior software developers.</p>",
             "github": "https://github.com/sarah-hart-landolt",
             "linkedIn": "https://www.linkedin.com/in/sarah-hart-landolt/",
             "portfolio": "http://sarah-hart-landolt.github.io",
             "email": "sarah.hart.landolt@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 18,
             "firstName": "Thomas",
             "lastName": "Long",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>From building homes and fixing helicopters, to taking counseling sessions and drink orders, I have been in the business of creating. I am passionate about finding solutions to problems, creating opportunities for growth, and holistically implementing those solutions and growth opportunities in whatever endeavor I'm pursuing.<br>My professional software programming story may just now be getting started, but computers have been a part of my life, and a genuine interest of mine, for as long as I can remember. From the very first sentence I wrote in a word processor so many years ago, I have been intrigued by what goes on \"under the hood\", and now that I'm learning exactly that, I can't believe it's taken me so long to get here! Software development has become exactly what I've always wanted to do, and I am extremely excited to continue learning, developing, and creating! </p>",
             "github": "https://github.com/ThomasELong",
             "linkedIn": "https://www.linkedin.com/in/thomas-long-252a99123/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "thomaselong12@gmail.com",
             "proImg": "ThomasLong.jpg",
-            "funImg": ""
+            "funImg": "null"
         },
         {
             "id": 19,
             "firstName": "Mark",
             "lastName": "McCann",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>I am a Nashville native who graduated from Lipscomb University in 2015 with a degree in Public Communications and Leadership. Upon graduating, I joined Pella Windows and Doors as a Sales and Customer Service representative. While I excelled and enjoyed many aspects of the role, I realized I wanted more to take my career in a different direction. I was introduced to programming by a friend and found the logical and problem solving aspects intriguing. After completing a three-week Jumpstart course at Nashville Software School, I knew this was the path I needed to be on. Now enrolled in the full-time Bootcamp, I can genuinely say that this career change has been one of the best decisions in my life. I am excited to be a part of the Nashville tech community. </p>",
             "github": "https://github.com/mjmccann90",
             "linkedIn": "www.linkedin.com/in/markjmccann12",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "mjmccann12@me.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 20,
             "firstName": "Philip",
             "lastName": "Martin",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>I went into Web development and joined NSS cause i wanted to move in a technical direction, my dad and brother both work in software Engineering and the industry keeps growing. I worked in music for my whole life and it seems like software developing has taken the music scene over, so that's the way i moved direction. I'm excited to learn more and more everyday to build my knowledge of Web development to further my career. </p>",
             "github": "https://github.com/philipDmartin",
             "linkedIn": "https://www.linkedin.com/in/philip-martin-2001/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "philipnathan788@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 22,
             "firstName": "Brant",
             "lastName": "Pippin",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>I’ve never been considered \"techy\" and was never “into computers”. No, I was the kid outside catching toads and getting muddy. If I was indoors, I was reading animal encyclopedias. Because of this, I got lots of confused looks when I said I wanted to be a programmer. Especially saying that while managing beehives, working for and owning a landscaping business, and keeping a bunch of chickens.<br>So, why am I doing software development you wonder? At first, it was just because software development as a career seemed like a no brainer. It is a career that is in such high demand, especially in Nashville, and it is only getting better. There is so much opportunity for growth and the need for constant learning was very appealing as well. Now that I have started NSS I have also found that software development is something that I enjoy very much and I know it will be an extremely rewarding career. When I initially became interested in software development, I had planned on going to college and getting my certifications. However, after hearing about Nashville Software School from several of my family members who attended there, I decided that’s where I was going to go.<br>There are many aspects of software development that I have come to love but, I especially enjoy the problem solving that is involved with it and the surprising social side of it. Working in groups and communicating well has been extremely enjoyable and I can't wait to start doing it full time! </p>",
             "github": "https://github.com/Brant2001",
             "linkedIn": "https://www.linkedin.com/in/brantpippin/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "brant.pippin@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 23,
@@ -290,27 +290,27 @@
             "id": 24,
             "firstName": "Blake",
             "lastName": "Slochowsky",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>Born in Memphis and raised in Middle Tennessee, I began my college career at Motlow State with the intentions of working in the field of criminal justice. After several years of the normal college routine, I decided that criminal justice was not where my heart truly was. I then started working a number of factory jobs which led me to an oppritunity driving for FedEx that lasted five years. After succeeding at FedEx, the wear and tear on my body and forseeing the long term affects of this field started me on a journey to find a different carrer. After a discussion with my dad, who is a Database Administrator for Oracle, we scouted for programing courses. This search led me to Nashville Software School and, ultimately, my love of coding. So I decided to try out a coding \"jumpstart\" at NSS, and I was immediately hooked. It was then that I jumped into the bootcamp with both feet and I'll never look back. Coding has been a non-stop journey of wondrous new endeavors, ambitious challenges to overcome, and marvelous discoveries to uncover. I've learned that the world of coding is filled with a never-ending plethora of new things to discover, which excites me the most. </p>",
             "github": "https://github.com/slochowsky",
             "linkedIn": "www.linkedin.com/in/blake-slochowsky/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "blakeslochowsky@yahoo.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 24,
             "firstName": "Heidi",
             "lastName": "Sprouse",
-            "reelThemIn": "",
+            "reelThemIn": "null",
             "bio": "<p>To be an exceptional software developer you can't simply regurgitate code, you must be imaginative! I started my career journey in graphic design, but have found that I appreciate efficient code just as much as a beautiful design. If an application looks great but is frustrating to use, then what’s the point?<br>After working with a clunky e-commerce back-end for a few years I decided that I would rather be the one creating the code rather than consuming it. I found my way to Nashville Software School where I am currently enrolled in the 6-month Full Stack Web Development program.<br>Working with code brings together all my interests and allows me to combine them in new and engaging ways. I enjoy diving into any part of the development process, be it layout design, user experience, database structure, or the code itself! In this dynamic era I believe that my flexibility makes me a valuable member of any team. It is my goal as a software developer to create things that are designed well and are a joy to use. They may even contain a bit of whimsy if applicable!<br>My main personal project is ibbits.com, a browser-based virtual pet game that I have been working on for many years. When I’m not in the digital world I enjoy spending time with my three pet prairie dogs, checking out what’s new in Nashville, and hiking the trails and greenways in the area. </p>",
             "github": "https://github.com/heidijane",
             "linkedIn": "www.linkedin.com/in/heidisprouse",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "heidi@heidisprouse.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         },
         {
             "id": 25,
@@ -320,10 +320,10 @@
             "bio": "<p>I am a Full-time Firefighter/AEMT and am currently enrolled at Nashville software school in a full-stack program for Software development. As a Firefighter, I have worked in a team/crew type environment in both leadership and subordinate roles. While in this career I have been faced with difficult and stressful situations that require critical thinking, situation awareness and teamwork to get the job done safely and effectively whether it is a fire , motor vehicle accident, or a medical emergency. I enjoy Software Development for the intellectual challenge, ability to be creative, and the problem solving aspects. To build something from the ground up and see it work after the effort involved is a great feeling of accomplishment. I enjoy pushing myself both mentally and physically to try and better myself everyday. Im consistently setting new goals and work hard to achieve them. My hobbies include Aviation, Archery, Martial Arts, and hunting.</p>",
             "github": "https://github.com/Bltatum",
             "linkedIn": "https://www.linkedin.com/in/brennen-tatum/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "bmar566@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "null",
+            "funImg": "null"
         }
     ]
 }
