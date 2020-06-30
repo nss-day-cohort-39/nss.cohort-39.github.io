@@ -47,7 +47,7 @@
             "bio": "My introduction to software development was initially sparked by my band's manager, who has been a developer for 15 years. The things he could do blew my mind. I'd always have twenty question for him, but never really understood his answers. I didn't take action on my own learning until two friends of mine (Nashville Software School alumns!) encouraged me to follow in their footsteps. A few Codecademy and Udemy courses later I applied to NSS hungry to learn more, and I'm so glad that I did. For me, the most enticing aspect of being a software engineer is that the learning is truly endless! Wearing my nerd on my sleeve here, but the problems are like games in which a developer needs to create and cast spells in order to solve. I'm always looking forward to the next challenge, and for the first time in a long time I no longer dread the end of the weekend because software engineering is just that cool!",
             "github": "https://github.com/alexcurnow",
             "linkedIn": "https://www.linkedin.com/in/alexcurnow/",
-            "portfolio": "",
+            "portfolio": "alexcurnow.github.io/my-portfolio/",
             "email": "alexcurnow@gmail.com",
             "proImg": "",
             "funImg": ""
@@ -95,7 +95,7 @@
             "id": 8,
             "firstName": "Crystal",
             "lastName": "Elsey",
-            "reelThemIn": "",
+            "reelThemIn": "Be cool out there, don't bogart the snacks, and if the po-po rolls up, first call's to your lawyer, not your Mom. -Louise Belcher",
             "bio": "<p>I have always been the sort of person who loves to jump in and orchestrate a solution to a puzzle or a problem, or even figure out how to make something that works, work even better. The first time I was able to maneuver through a maze of code on my own and identify how to make it perform the way I wanted, I knew I was hooked. There's nothing more satisfying than the moment your efforts and experiments click into place and -- bam! -- order and function are restored to the world once more. Coming from prior experiences in nonprofit development, sales, and account management, I love being in a field where I don't have to choose between strategic and creative thinking -- the possibilities for inventive problem-solving are endless! </p>",
             "github": "https://github.com/CrystalElseyNSS",
             "linkedIn": "https://www.linkedin.com/in/crystalelsey/",
@@ -190,10 +190,10 @@
             "bio": "<p>Before beginning my journey in software development, I was working as a behavior therapist for children with autism. I enjoyed being able to make a difference in children's lives by seeing the small changes as large victories. Software development allowed me to transition to appreciating small features in my code before ultimately building out a complex application. I was able to combine my passion of working with others and solving complex problems using logic while working in a team environment. I was first introduced to software development as a means of more efficiently processing data when I was working on my masters thesis. I realized that a career in tech combined my passions for helping others and creating things.</p>",
             "github": "https://github.com/kristen-howton",
             "linkedIn": "https://www.linkedin.com/in/kristen-howton/",
-            "portfolio": "",
+            "portfolio": "null",
             "email": "kristen.howton@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "KristenHowton.jpg",
+            "funImg": "null"
         },
         {
             "id": 16,
@@ -277,14 +277,14 @@
             "id": 23,
             "firstName": "Jayson",
             "lastName": "Rice",
-            "reelThemIn": "",
+            "reelThemIn": "Testing leads to failure, and failure leads to understanding.  -Burt Rutan",
             "bio": "<p>I’ve lived all over east Tennessee while growing up, but I eventually ended up at Middle Tennessee State University studying Digital Media after enjoying creating digital content in a high school class. After graduating, I worked as an independent contractor for a digital marketing agency for a year before I decided it wasn’t what I wanted to do. I enjoyed the process being creative and working with a laptop but disliked the marketing process. After some soul searching and recommendations from friends, I determined that software development would be a good direction for me to move in. </p>",
             "github": "https://github.com/JaysonRice",
             "linkedIn": "https://www.linkedin.com/in/jaysonrice/",
             "portfolio": "https://jaysonrice.github.io/",
             "email": "jayson.rice.95@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "images/classmates/JaysonRice.jpg",
+            "funImg": "null"
         },
         {
             "id": 24,
