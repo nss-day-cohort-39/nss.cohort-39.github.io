@@ -148,13 +148,13 @@
             "id": 13,
             "firstName": "Daniel",
             "lastName": "Hero",
-            "reelThemIn": "",
+            "reelThemIn": "\"Without change something sleeps inside us, and seldom awakens. The sleeper must awaken.\" ― Frank Herbert, Dune",
             "bio": "<p>While working in many different business sectors, I have gained knowledge to understand the many different aspects of a business. I correlate all the skills learned by my experiences to excel and thrive in the workplace. Currently, my passion has fallen into software development. I have found it's a perfect career path for me to flex my creative side, while also adhering to my natural orderly side. </p>",
             "github": "https://github.com/danielhero",
             "linkedIn": "https://www.linkedin.com/in/danielhero/",
             "portfolio": "http://danielhero.github.io",
             "email": "danielhero@outlook.com",
-            "proImg": "null"
+            "proImg": "DanielHero.jpg"
         },
         {
             "id": 14,
@@ -202,7 +202,7 @@
             "linkedIn": "https://www.linkedin.com/in/sarah-hart-landolt/",
             "portfolio": "http://sarah-hart-landolt.github.io",
             "email": "sarah.hart.landolt@gmail.com",
-            "proImg": "null"
+            "proImg": "SarahLandolt.jpg"
         },
         {
             "id": 18,
