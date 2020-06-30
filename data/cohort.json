@@ -4,14 +4,13 @@
             "id": 1,
             "firstName": "Billy",
             "lastName": "Blackman",
-            "reelThemIn": "<p>The scariest moment is always just before you start.- Stephen King</p>",
+            "reelThemIn": "\"The scariest moment is always just before you start.\"- Stephen King",
             "bio": "<p>I have always had a passion for creating things. I love building things, taking them apart, finding out how they work and fixing them. I approach all my core interests - Software Development, Audio Engineering, Electronics - with a similar mechanical approach and curiosity. <br> I've been interested in software since childhood, but just recently took the leap to start learning. Coming from a well-rounded background in music, focused in analytical facets like production and composition, Software Development offers me countless new ways to fulfill my desires to design, build, and repair. </p>",
             "github": "https://github.com/billyblackman",
             "linkedIn": "https://www.linkedin.com/in/billyblackman/",
             "portfolio": "",
             "email": "blackmanbilly@gmail.com",
-            "proImg": "BillyBlackman.jpg",
-            "funImg": "null"
+            "proImg": "BillyBlackman.jpg"
         },
         {
             "id": 2,
@@ -23,8 +22,7 @@
             "linkedIn": "https://www.linkedin.com/in/derekbuckley/",
             "portfolio": "null",
             "email": "buckleyderekp@gmail.com",
-            "proImg": "DerekBuckley.jpg",
-            "funImg": "null"
+            "proImg": "DerekBuckley.jpg"
         },
         {
             "id": 3,
@@ -36,8 +34,7 @@
             "linkedIn": "https://www.linkedin.com/in/mecarrolljr/",
             "portfolio": "null",
             "email": "mecarrolljr@tutanota.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 4,
@@ -49,8 +46,7 @@
             "linkedIn": "https://www.linkedin.com/in/alexcurnow/",
             "portfolio": "http://alexcurnow.github.io/my-portfolio/",
             "email": "alexcurnow@gmail.com",
-            "proImg": "AlexCurnow.jpg",
-            "funImg": "null"
+            "proImg": "AlexCurnow.jpg"
         },
         {
             "id": 5,
@@ -62,8 +58,7 @@
             "linkedIn": "https://www.linkedin.com/in/calvinmcurry/",
             "portfolio": "https://calvincurry22.github.io/",
             "email": "calvincurry22@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 6,
@@ -75,8 +70,7 @@
             "linkedIn": "https://www.linkedin.com/in/tyler-j-davis/",
             "portfolio": "http://tylerdav.github.io",
             "email": "tylerdavis32@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 7,
@@ -89,7 +83,6 @@
             "portfolio": "http://durrjp.github.io",
             "email": "durrjp1@gmail.com",
             "proImg": "JonDurr.jpg",
-            "funImg": "null"
         },
         {
             "id": 8,
@@ -101,8 +94,7 @@
             "linkedIn": "https://www.linkedin.com/in/crystalelsey/",
             "portfolio": "https://crystalelseynss.github.io/",
             "email": "hello@crystalelsey.com",
-            "proImg": "CrystalElsey.jpg",
-            "funImg": "null"
+            "proImg": "CrystalElsey.jpg"
         },
         {
             "id": 9,
@@ -114,8 +106,7 @@
             "linkedIn": "https://www.linkedin.com/in/daniel-fuqua/",
             "portfolio": "null",
             "email": "fuquardwork@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 10,
@@ -127,8 +118,7 @@
             "linkedIn": "https://www.linkedin.com/in/timpgeorge/",
             "portfolio": "null",
             "email": "tgeorgedev@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 11,
@@ -140,8 +130,7 @@
             "linkedIn": "linkedin.com/in/yitbarek-gitore-b18aa8186",
             "portfolio": "null",
             "email": "yitbareky@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 12,
@@ -153,8 +142,7 @@
             "linkedIn": "https://www.linkedin.com/in/shady-grant/",
             "portfolio": "http://shadygrant.github.io",
             "email": "shadygrant@yahoo.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 13,
@@ -166,8 +154,7 @@
             "linkedIn": "https://www.linkedin.com/in/danielhero/",
             "portfolio": "http://danielhero.github.io",
             "email": "danielhero@outlook.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 14,
@@ -179,8 +166,7 @@
             "linkedIn": "https://www.linkedin.com/in/iparkerhodge/",
             "portfolio": "http://iparkerhodge.github.io/portfolio",
             "email": "iparkerhodge@gmail.com",
-            "proImg": "ParkerHodge.jpg",
-            "funImg": "null"
+            "proImg": "ParkerHodge.jpg"
         },
         {
             "id": 15,
@@ -192,8 +178,7 @@
             "linkedIn": "https://www.linkedin.com/in/kristen-howton/",
             "portfolio": "null",
             "email": "kristen.howton@gmail.com",
-            "proImg": "KristenHowton.jpg",
-            "funImg": "null"
+            "proImg": "KristenHowton.jpg"
         },
         {
             "id": 16,
@@ -205,8 +190,7 @@
             "linkedIn": "https://www.linkedin.com/in/iamdrewkirkland/",
             "portfolio": "null",
             "email": "drew.kirkland@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 17,
@@ -218,8 +202,7 @@
             "linkedIn": "https://www.linkedin.com/in/sarah-hart-landolt/",
             "portfolio": "http://sarah-hart-landolt.github.io",
             "email": "sarah.hart.landolt@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 18,
@@ -231,8 +214,7 @@
             "linkedIn": "https://www.linkedin.com/in/thomas-long-252a99123/",
             "portfolio": "null",
             "email": "thomaselong12@gmail.com",
-            "proImg": "ThomasLong.jpg",
-            "funImg": "null"
+            "proImg": "ThomasLong.jpg"
         },
         {
             "id": 19,
@@ -244,8 +226,7 @@
             "linkedIn": "www.linkedin.com/in/markjmccann12",
             "portfolio": "null",
             "email": "mjmccann12@me.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 20,
@@ -257,8 +238,7 @@
             "linkedIn": "https://www.linkedin.com/in/philip-martin-2001/",
             "portfolio": "null",
             "email": "philipnathan788@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 22,
@@ -270,21 +250,19 @@
             "linkedIn": "https://www.linkedin.com/in/brantpippin/",
             "portfolio": "null",
             "email": "brant.pippin@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 23,
             "firstName": "Jayson",
             "lastName": "Rice",
-            "reelThemIn": "Testing leads to failure, and failure leads to understanding.  -Burt Rutan",
+            "reelThemIn": "“Testing leads to failure, and failure leads to understanding.”  -Burt Rutan",
             "bio": "<p>I’ve lived all over east Tennessee while growing up, but I eventually ended up at Middle Tennessee State University studying Digital Media after enjoying creating digital content in a high school class. After graduating, I worked as an independent contractor for a digital marketing agency for a year before I decided it wasn’t what I wanted to do. I enjoyed the process being creative and working with a laptop but disliked the marketing process. After some soul searching and recommendations from friends, I determined that software development would be a good direction for me to move in. </p>",
             "github": "https://github.com/JaysonRice",
             "linkedIn": "https://www.linkedin.com/in/jaysonrice/",
             "portfolio": "https://jaysonrice.github.io/",
             "email": "jayson.rice.95@gmail.com",
-            "proImg": "JaysonRice.jpg",
-            "funImg": "null"
+            "proImg": "JaysonRice.jpg"
         },
         {
             "id": 24,
@@ -296,8 +274,7 @@
             "linkedIn": "www.linkedin.com/in/blake-slochowsky/",
             "portfolio": "null",
             "email": "blakeslochowsky@yahoo.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 24,
@@ -309,8 +286,7 @@
             "linkedIn": "www.linkedin.com/in/heidisprouse",
             "portfolio": "null",
             "email": "heidi@heidisprouse.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         },
         {
             "id": 25,
@@ -322,8 +298,7 @@
             "linkedIn": "https://www.linkedin.com/in/brennen-tatum/",
             "portfolio": "null",
             "email": "bmar566@gmail.com",
-            "proImg": "null",
-            "funImg": "null"
+            "proImg": "null"
         }
     ]
 }
