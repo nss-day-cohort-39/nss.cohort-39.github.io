@@ -106,14 +106,14 @@
         },
         {
             "id": 10,
-            "firstName": "Timothy",
+            "firstName": "Tim",
             "lastName": "George",
             "reelThemIn": "",
             "bio": "<p>My interest in software development began in my freshman year of high school. We built a simple website mostly utilizing HTML and inline-styling for a class project. After spending the first decade of my working years mastering the art of craft butchery and managing a business, I decided I needed a new stimulating path that combined my passion for customer service and artistry. I ran into a former colleague who had entered NSS and was now a successful software engineer. After doing some research and studying privately I decided that entering the school was my next step.</p>",
             "github": "https://github.com/Hellowalls1",
             "linkedIn": "https://www.linkedin.com/in/timpgeorge/",
             "email": "tgeorgedev@gmail.com",
-            "proImg": "null"
+            "proImg": "TimGeorge.jpg"
         },
         {
             "id": 11,
