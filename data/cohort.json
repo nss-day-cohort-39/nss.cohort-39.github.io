@@ -222,15 +222,15 @@
             "id": 20,
             "firstName": "Philip",
             "lastName": "Martin",
-            "reelThemIn": "",
-            "bio": "<p>I went into Web development and joined NSS cause i wanted to move in a technical direction, my dad and brother both work in software Engineering and the industry keeps growing. I worked in music for my whole life and it seems like software developing has taken the music scene over, so that's the way i moved direction. I'm excited to learn more and more everyday to build my knowledge of Web development to further my career. </p>",
+            "reelThemIn": "\"You maniacs! You blew it up!\"-Planet Of The Apes",
+            "bio": "<p>I have been around music my whole life. Since I was 8 I was curious to learn every instrument, genre, and music style. There just wasn't enough! Through out my walk in music I've had to deal with computers and software and was always intrigued how they where incorporated in my work. My dad and brother have made careers in web development so the industry has had a huge effect on me. Growing up my dad was always working on some new problem and i wanted to know everything he was doing, as I grew older I had decided to make a career change as my passion for computers and technologies grew in my career, this was a drastic change, but I continue to learn more each day in my pursuit as a full stack Web Developer.</p>",
             "github": "https://github.com/philipDmartin",
             "linkedIn": "https://www.linkedin.com/in/philip-martin-2001/",
             "email": "philipnathan788@gmail.com",
-            "proImg": "null"
+            "proImg": "PhilipMartin.jpg"
         },
         {
-            "id": 22,
+            "id": 21,
             "firstName": "Brant",
             "lastName": "Pippin",
             "reelThemIn": "",
@@ -241,7 +241,7 @@
             "proImg": "null"
         },
         {
-            "id": 23,
+            "id": 22,
             "firstName": "Jayson",
             "lastName": "Rice",
             "reelThemIn": "\"Testing leads to failure, and failure leads to understanding.\"  -Burt Rutan",
@@ -253,7 +253,7 @@
             "proImg": "JaysonRice.jpg"
         },
         {
-            "id": 24,
+            "id": 23,
             "firstName": "Blake",
             "lastName": "Slochowsky",
             "reelThemIn": "",
@@ -267,12 +267,13 @@
             "id": 24,
             "firstName": "Heidi",
             "lastName": "Sprouse",
-            "reelThemIn": "",
-            "bio": "<p>To be an exceptional software developer you can't simply regurgitate code, you must be imaginative! I started my career journey in graphic design, but have found that I appreciate efficient code just as much as a beautiful design. If an application looks great but is frustrating to use, then what’s the point?<br>After working with a clunky e-commerce back-end for a few years I decided that I would rather be the one creating the code rather than consuming it. I found my way to Nashville Software School where I am currently enrolled in the 6-month Full Stack Web Development program.<br>Working with code brings together all my interests and allows me to combine them in new and engaging ways. I enjoy diving into any part of the development process, be it layout design, user experience, database structure, or the code itself! In this dynamic era I believe that my flexibility makes me a valuable member of any team. It is my goal as a software developer to create things that are designed well and are a joy to use. They may even contain a bit of whimsy if applicable!<br>My main personal project is ibbits.com, a browser-based virtual pet game that I have been working on for many years. When I’m not in the digital world I enjoy spending time with my three pet prairie dogs, checking out what’s new in Nashville, and hiking the trails and greenways in the area. </p>",
+            "reelThemIn": "\"When it's all mixed up, better break it down!\" - Roland Orzabal",
+            "bio": "<p>To be an exceptional software developer you can't simply regurgitate code, you must be imaginative! I started my career journey in graphic arts, but have found that I appreciate efficient code just as much as a beautiful design. I enjoy diving into any part of the development process, be it layout design, user experience, database structure, or the code itself! In this dynamic era I believe that my flexibility makes me a valuable member of any team.</p>",
             "github": "https://github.com/heidijane",
-            "linkedIn": "www.linkedin.com/in/heidisprouse",
+            "linkedIn": "https://www.linkedin.com/in/heidisprouse/",
+            "portfolio": "http://heidisprouse.com/",
             "email": "heidi@heidisprouse.com",
-            "proImg": "null"
+            "proImg": "HeidiSprouse.jpg"
         },
         {
             "id": 25,
