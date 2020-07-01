@@ -73,7 +73,7 @@
             "id": 7,
             "firstName": "Jon",
             "lastName": "Durr",
-            "reelThemIn": "while(success != true)<br>{<br>tryAgain();<br>}",
+            "reelThemIn": "while(success != true)<br>{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tryAgain();<br>}",
             "bio": "<p>Hello I'm Jon. Currently, I'm a student at Nashville Software School and enrolled in the full-stack C#/.NET web development program. My journey into software development began from a desire to increase my own efficiency in the workplace in programs like Microsoft Excel and Salesforce. With an engineering background and a love of problem solving I took the plunge into basic front-end development with a short, in person foundations program that had me hooked. Afterwords, I enrolled in this full-time course and have been working to develop my own skills so that I can pursue software development full-time. I hope to one day combine my passion for health care and improving the lives of patients with my new-found love of programming.</p>",
             "github": "https://github.com/durrjp",
             "linkedIn": "https://www.linkedin.com/in/durrjp/",
