@@ -116,17 +116,6 @@
             "proImg": "TimGeorge.jpg"
         },
         {
-            "id": 11,
-            "firstName": "Yitbarek 'Yohannis'",
-            "lastName": "Gitore",
-            "reelThemIn": "",
-            "bio": "<p>Having spent years working on customer service industry, I knew I wanted a career that would better utilize my creative and analytical abilities. I am currently attending Nashville Software School to further my skill set and be a valuable member of any organization that is in need of someone who knows how to work towards goals. </p>",
-            "github": "https://github.com/yitbarekgitore",
-            "linkedIn": "linkedin.com/in/yitbarek-gitore-b18aa8186",
-            "email": "yitbareky@gmail.com",
-            "proImg": "YitbarekGitore.jpg"
-        },
-        {
             "id": 12,
             "firstName": "Shady",
             "lastName": "Grant",
