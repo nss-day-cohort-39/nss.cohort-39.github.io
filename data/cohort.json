@@ -198,17 +198,6 @@
             "proImg": "ThomasLong.jpg"
         },
         {
-            "id": 19,
-            "firstName": "Mark",
-            "lastName": "McCann",
-            "reelThemIn": "\"Try not to become a man of success, but rather try to become a man of value.\" -Albert Einstein",
-            "bio": "<p>I am a Nashville native who graduated from Lipscomb University in 2015 with a degree in Public Communications and Leadership. Upon graduating, I joined Pella Windows and Doors as a Sales and Customer Service representative. While I excelled and enjoyed many aspects of the role, I realized I wanted more to take my career in a different direction. I was introduced to programming by a friend and found the logical and problem solving aspects intriguing. After completing a three-week Jumpstart course at Nashville Software School, I knew this was the path I needed to be on. Now enrolled in the full-time Bootcamp, I can genuinely say that this career change has been one of the best decisions in my life. I am excited to be a part of the Nashville tech community. </p>",
-            "github": "https://github.com/mjmccann90",
-            "linkedIn": "www.linkedin.com/in/markjmccann12",
-            "email": "mjmccann12@me.com",
-            "proImg": "MarkMcCann.jpg"
-        },
-        {
             "id": 20,
             "firstName": "Philip",
             "lastName": "Martin",
