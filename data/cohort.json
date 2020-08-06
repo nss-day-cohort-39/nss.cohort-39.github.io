@@ -58,18 +58,6 @@
             "proImg": "CalvinCurry.jpg"
         },
         {
-            "id": 6,
-            "firstName": "Tyler",
-            "lastName": "Davis",
-            "reelThemIn": "\"The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.\" – Winston Churchill",
-            "bio": "<p>I am a Nashville native with a deep passion for technology and constant learning. Starting from a young age, I loved taking things apart and seeing how they worked. This curiosity eventually led me to code, something I had always been fascinated by but never pursued until recently. After diving into an extensive 6-month full-stack boot camp, I couldn't be happier with this career choice and look forward to using this new-found knowledge in the world.</p>",
-            "github": "https://github.com/tylerdav",
-            "linkedIn": "https://www.linkedin.com/in/tyler-j-davis/",
-            "portfolio": "http://tylerdav.github.io",
-            "email": "tylerdavis32@gmail.com",
-            "proImg": "TylerDavis.jpg"
-        },
-        {
             "id": 7,
             "firstName": "Jon",
             "lastName": "Durr",
