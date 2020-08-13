@@ -61,16 +61,31 @@ function cohortMembers(list) {
       studentInfo += `
             <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
            Learn More!
-          </button></center>
+          </button></center>`;
+    }
+
+    if (item.capstone) {
+      studentInfo += `
+        <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMemberCap${item.id}">
+        Capstone
+      </button></center>
+      `;
+    }
+    if (item.bio || item.capstone) {
+      studentInfo += `  
           </div>
-        </div>`
+        </div>
+        `;
+    }
+
+    if (item.bio) {
       //modal info
       studentInfo += `
         <div class="modal fade" id="cohortMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMember${item.id}Label" aria-hidden="true">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
             <div class="modal-header">
-           <h5 class="modal-title title-font" id="cohortMember${item.id}Label">${item.firstName} ${item.lastName}</h5>
+              <h5 class="modal-title title-font" id="cohortMember${item.id}Label">${item.firstName} ${item.lastName}</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
@@ -84,20 +99,51 @@ function cohortMembers(list) {
 
       studentInfo += `
       
-    ${item.bio}
-    </div>
-    <center><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
-      Back
-              </button></center>
-            
+              ${item.bio}
+            </div>
+            <center>
+              <button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
+                Back
+              </button>
+            </center>        
           </div >
-        </div >
-      </div > `;
-    } else {
+          </div>
+        </div> `;
+    }
+
+    if (item.capstone) {
+      //modal info
       studentInfo += `
-      </div>
-        </div>
-        `
+        <div class="modal fade" id="cohortMemberCap${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMemberCap${item.id}Label" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title title-font" id="cohortMemberCap${item.id}Label">${item.firstName} ${item.lastName}'s Capstone</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">   
+            <div className="iframe-container">
+            <iframe
+              class="capstone__modal-iframe"
+              title="Capstone"
+              width="100%"
+              height="100%"
+              src="${item.capstone}"
+              frameBorder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+            </div>
+            <center>
+              <button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
+                Back
+              </button>
+            </center>        
+          </div >
+          </div>
+        </div> `;
     }
     document.getElementById("cohort").innerHTML += studentInfo;
 
