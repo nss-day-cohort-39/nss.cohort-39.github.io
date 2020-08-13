@@ -172,7 +172,8 @@
             "linkedIn": "https://www.linkedin.com/in/sarah-hart-landolt/",
             "portfolio": "http://sarah-hart-landolt.github.io",
             "email": "sarah.hart.landolt@gmail.com",
-            "proImg": "SarahLandolt.jpg"
+            "proImg": "SarahLandolt.jpg",
+            "capstone": "https://youtu.be/pA0SUzmEJO0"
         },
         {
             "id": 18,
@@ -251,7 +252,8 @@
             "github": "https://github.com/Bltatum",
             "linkedIn": "https://www.linkedin.com/in/brennen-tatum/",
             "email": "bmar566@gmail.com",
-            "proImg": "BrennenTatum.jpg"
+            "proImg": "BrennenTatum.jpg",
+            "capstone": "https://youtu.be/jj9CqZxVs_c"
         }
     ]
 }
