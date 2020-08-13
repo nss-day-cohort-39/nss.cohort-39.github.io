@@ -3,7 +3,6 @@ $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
 
-
 $.ajax({
   url: "data/cohort.json"
 }).done(cohortMembers)
@@ -60,50 +59,59 @@ function cohortMembers(list) {
 
       studentInfo += `
             <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
-           Learn More!
-          </button></center>
+           Learn More
+          </button></center>`;
+    }
+
+    if (item.capstone) {
+      studentInfo += `
+      <form action="${item.capstone}" >
+        <center><input type="submit" value="Capstone" class="btn btn-outline-primary title-font bottom pointer" /></center>
+      </form>
+      `;
+    }
+    if (item.bio || item.capstone) {
+      studentInfo += `  
           </div>
-        </div>`
+        </div>
+        `;
+    }
+
+    if (item.bio) {
       //modal info
       studentInfo += `
         <div class="modal fade" id="cohortMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMember${item.id}Label" aria-hidden="true">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
             <div class="modal-header">
-           <h5 class="modal-title title-font" id="cohortMember${item.id}Label">${item.firstName} ${item.lastName}</h5>
+              <h5 class="modal-title title-font" id="cohortMember${item.id}Label">${item.firstName} ${item.lastName}</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
-            
             `
 
       studentInfo += studentContact
 
-
       studentInfo += `
       
-    ${item.bio}
-    </div>
-    <center><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
-      Back
-              </button></center>
-            
+              ${item.bio}
+            </div>
+            <center>
+              <button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
+                Back
+              </button>
+            </center>        
           </div >
-        </div >
-      </div > `;
-    } else {
-      studentInfo += `
-      </div>
-        </div>
-        `
+          </div>
+        </div> `;
     }
+
     document.getElementById("cohort").innerHTML += studentInfo;
 
   });
 };
-
 
 $.ajax({
   url: "data/techs.json"
@@ -122,3 +130,4 @@ function techs(list) {
       </div>`;
   });
 };
+

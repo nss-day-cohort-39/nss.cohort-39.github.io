@@ -60,7 +60,6 @@ blockquote{
     height: 50px;
 }
 
-
 .jumbotron.jumbotron-fluid{
     background: none;
    }
@@ -138,6 +137,16 @@ main {
 
 .modal-body{
     display: block;
+    width: 100%;
+  }
+
+  .modal-dialog{
+    display: flex;
+    justify-content: center;
+  }
+
+  .video{
+    width: 100%
   }
 
   .studentContact{
@@ -309,3 +318,12 @@ button{
       font-size: 1.2rem;
     }
   }
+
+  button {
+    margin: 2px;
+  }
+
+  .pointer {
+    cursor: pointer;
+  }
+
