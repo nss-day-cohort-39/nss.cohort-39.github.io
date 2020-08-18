@@ -65,9 +65,8 @@ function cohortMembers(list) {
 
     if (item.capstone) {
       studentInfo += `
-      <form action="${item.capstone}" >
-        <center><input type="submit" value="Capstone" class="btn btn-outline-primary title-font bottom pointer" /></center>
-      </form>
+      
+        <center><a href="${item.capstone}" class="btn btn-outline-primary title-font bottom pointer" target="_new">Capstone</a></center>
       `;
     }
     if (item.bio || item.capstone) {
